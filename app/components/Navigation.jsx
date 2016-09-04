@@ -24,7 +24,7 @@ var Nav = () => {
       <div className="top-bar-right">
         <ul className="menu">
           <li className="menu-text">
-            <a href="https://github.com/KateWood" target="_blank"><span style={{color: 'white'}}>Created by</span> Kate Wood</a>
+            Created by <a href="https://github.com/KateWood" target="_blank">Kate Wood</a>
           </li>
         </ul>
       </div>
